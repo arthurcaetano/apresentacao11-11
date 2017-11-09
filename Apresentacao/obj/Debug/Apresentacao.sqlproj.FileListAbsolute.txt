@@ -1,0 +1,9 @@
+C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\bin\Debug\Apresentacao.dacpac
+C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\obj\Debug\Model.xml
+C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\obj\Debug\refactor.xml
+C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\obj\Debug\postdeploy.sql
+C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\obj\Debug\predeploy.sql
+C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\obj\Debug\Apresentacao.pdb
