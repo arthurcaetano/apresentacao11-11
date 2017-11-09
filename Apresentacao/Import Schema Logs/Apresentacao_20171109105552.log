@@ -1,0 +1,85 @@
+09/11/2017 20:55:52	This log contains information about the import schema operation into project 'Apresentacao' on computer 'ARTHUR' by user 'Arthur'.
+09/11/2017 20:55:52	Import of database schema has started.
+09/11/2017 20:55:58	Gathering database credentials
+09/11/2017 20:55:58	Gathering database options
+09/11/2017 20:55:58	Gathering generic database scoped configuration option
+09/11/2017 20:55:58	Gathering users
+09/11/2017 20:55:58	Gathering roles
+09/11/2017 20:55:58	Gathering application roles
+09/11/2017 20:55:58	Gathering role memberships
+09/11/2017 20:55:58	Gathering filegroups
+09/11/2017 20:55:58	Gathering full-text catalogs
+09/11/2017 20:55:58	Gathering assemblies
+09/11/2017 20:55:58	Gathering certificates
+09/11/2017 20:55:58	Gathering asymmetric keys
+09/11/2017 20:55:58	Gathering symmetric keys
+09/11/2017 20:55:58	Gathering encrypted symmetric keys
+09/11/2017 20:55:58	Gathering schemas
+09/11/2017 20:55:58	Gathering XML schema collections
+09/11/2017 20:55:58	Gathering user-defined data types
+09/11/2017 20:55:58	Gathering user-defined types
+09/11/2017 20:55:58	Gathering table types
+09/11/2017 20:55:58	Gathering unique keys for table types
+09/11/2017 20:55:58	Gathering primary keys for table types
+09/11/2017 20:55:58	Gathering indexes for table types
+09/11/2017 20:55:58	Gathering check constraints for table types
+09/11/2017 20:55:58	Gathering default constraints for table types
+09/11/2017 20:55:58	Gathering partition functions
+09/11/2017 20:55:58	Gathering partition schemes
+09/11/2017 20:55:58	Gathering functions
+09/11/2017 20:55:58	Gathering encrypted functions
+09/11/2017 20:55:58	Gathering aggregates
+09/11/2017 20:55:58	Gathering procedures
+09/11/2017 20:55:58	Gathering encrypted procedures
+09/11/2017 20:55:58	Gathering tables
+09/11/2017 20:55:58	Gathering primary keys
+09/11/2017 20:55:58	Gathering unique constraints
+09/11/2017 20:55:58	Gathering foreign keys
+09/11/2017 20:55:58	Gathering default constraints
+09/11/2017 20:55:58	Gathering check constraints
+09/11/2017 20:55:58	Gathering views
+09/11/2017 20:55:58	Gathering encrypted views
+09/11/2017 20:55:58	Gathering indexes
+09/11/2017 20:55:58	Gathering statistics
+09/11/2017 20:55:58	Gathering full-text index stoplists
+09/11/2017 20:55:58	Gathering search property lists
+09/11/2017 20:55:58	Gathering search properties
+09/11/2017 20:55:58	Gathering full-text indexes
+09/11/2017 20:55:58	Gathering column store indexes
+09/11/2017 20:55:58	Gathering spatial indexes
+09/11/2017 20:55:59	Gathering XML indexes
+09/11/2017 20:55:59	Gathering Selective XML indexes
+09/11/2017 20:55:59	Gathering encrypted triggers
+09/11/2017 20:55:59	Gathering triggers
+09/11/2017 20:55:59	Gathering encrypted and clr ddl triggers
+09/11/2017 20:55:59	Gathering ddl triggers
+09/11/2017 20:55:59	Gathering synonyms
+09/11/2017 20:55:59	Gathering defaults
+09/11/2017 20:55:59	Gathering data constraint uddt bindings
+09/11/2017 20:55:59	Gathering rules
+09/11/2017 20:55:59	Gathering data constraint uddt bindings
+09/11/2017 20:55:59	Gathering message types
+09/11/2017 20:55:59	Gathering queues
+09/11/2017 20:55:59	Gathering contracts
+09/11/2017 20:55:59	Gathering services
+09/11/2017 20:55:59	Gathering event notifications
+09/11/2017 20:55:59	Gathering remote service bindings
+09/11/2017 20:55:59	Gathering broker priorities
+09/11/2017 20:55:59	Gathering signatures
+09/11/2017 20:55:59	Gathering data compression options
+09/11/2017 20:55:59	Gathering sequence types
+09/11/2017 20:55:59	Gathering security policies
+09/11/2017 20:55:59	Gather column encryption keys
+09/11/2017 20:55:59	Gathering column master keys
+09/11/2017 20:55:59	Gathering external data sources
+09/11/2017 20:55:59	Gathering external file formats
+09/11/2017 20:55:59	Gathering external tables
+09/11/2017 20:55:59	Gathering extended properties
+09/11/2017 20:55:59	Gathering credentials
+09/11/2017 20:55:59	Gathering logins
+09/11/2017 20:55:59	Gathering server audits
+09/11/2017 20:55:59	Scanning project for duplicate elements
+09/11/2017 20:55:59	Finished duplicate element processing
+09/11/2017 20:55:59	Finished importing database.
+09/11/2017 20:55:59	A summary of the import was saved to the following location: C:\Users\Arthur\Source\Repos\apresentacao11-11\Apresentacao\Import Schema Logs\Apresentacao_20171109105552.log
+09/11/2017 20:55:59	Click Finish to continue...
