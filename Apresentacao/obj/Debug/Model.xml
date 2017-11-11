@@ -90,7 +90,7 @@
 					</Element>
 				</Entry>
 				<Entry>
-					<Element Type="SqlSimpleColumn" Name="[dbo].[Exemplo1].[campo1]">
+					<Element Type="SqlSimpleColumn" Name="[dbo].[Exemplo1].[campo122]">
 						<Property Name="IsNullable" Value="False" />
 						<Relationship Name="TypeSpecifier">
 							<Entry>
@@ -169,7 +169,7 @@
 					</Element>
 				</Entry>
 				<Entry>
-					<Element Type="SqlSimpleColumn" Name="[dbo].[TabelaTeste].[teste1]">
+					<Element Type="SqlSimpleColumn" Name="[dbo].[TabelaTeste].[teste11]">
 						<Relationship Name="TypeSpecifier">
 							<Entry>
 								<Element Type="SqlTypeSpecifier">
@@ -185,7 +185,7 @@
 					</Element>
 				</Entry>
 				<Entry>
-					<Element Type="SqlSimpleColumn" Name="[dbo].[TabelaTeste].[teste2]">
+					<Element Type="SqlSimpleColumn" Name="[dbo].[TabelaTeste].[teste22]">
 						<Relationship Name="TypeSpecifier">
 							<Entry>
 								<Element Type="SqlTypeSpecifier">
